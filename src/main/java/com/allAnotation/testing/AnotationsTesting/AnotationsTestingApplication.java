@@ -9,6 +9,5 @@ public class AnotationsTestingApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AnotationsTestingApplication.class, args);
 		
-		
 	}
 }
