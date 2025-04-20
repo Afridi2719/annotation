@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### MYSQL ###
+mysql_data/
+*.sock
